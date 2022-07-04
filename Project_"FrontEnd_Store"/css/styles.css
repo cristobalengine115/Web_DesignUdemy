@@ -113,11 +113,6 @@ h3{
     background-color: var(--primarioOscuro);
     padding: 1rem;
 }
-.producto__imagen{
-}
-.producto__informacion{
-
-}
 .producto__nombre{
     font-size: 4rem;
 }
